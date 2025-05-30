@@ -1,0 +1,29 @@
+XXXXXXXXXXXXXXXXXXXXXXXXX
+XT E    XXXXX G XXXXXXXX
+XXXXX    XXXXX   XXXXXXXX
+XXXXX    XXXXX   XXXXXXXX
+XX                     EX
+XX          XXXXX  XXXXXX
+XX          XXXXX  XX EXX
+XXT            EX  XX  XX
+XX          XXXXX  XX  XX
+XX     XX   XXXXX  XX  XX
+XX E   XX              XX
+XX     XX     XXXXXXX  XX
+XX T   XX    TXXXXXXX  XX
+XXXXXXXXX   XXXXXXX E  XX
+XXXXXXXXX        XXXXXXXX
+X                     EXX
+X  XX     XXXXXXXXX    XX
+X  XX     XXX E  XX    XX
+XE XX    TXXX    XX    XX
+XXXXX   XXXXX          XX
+XXXXX   XXXXX    XX   EXX
+XXXXX      P       XXXXXX
+XX      XXXXXX     XXXXXX
+XX     XXXXXX   T  E XXX
+XXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
+

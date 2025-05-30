@@ -1,1 +1,1 @@
-# Maze-Game
+# Maze-Game was a basic python team project I worked on alongside another team member as part of my project for the course APS(Algorithmic Problem Solving) during my first semester as Habib University
